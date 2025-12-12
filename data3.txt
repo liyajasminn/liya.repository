@@ -1,1 +1,5 @@
 a = 10
+
+
+nums = [3, 7, 2, 9]
+print(sum(nums))
